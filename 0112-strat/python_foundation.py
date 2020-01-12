@@ -6,7 +6,7 @@
     s1 = 'Hello, world'
     s2 = 'Hello, \'Adam\''
     s3 = r'Hello, "Bart"'
-    s4 = r'''Fool,yuqing!'''
+    s4 = r\'''Fool,yuqing!\'''
 
 
     (第二部分，字符串)
@@ -32,5 +32,5 @@ def main():
        Finish by yourself!
     '''
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
