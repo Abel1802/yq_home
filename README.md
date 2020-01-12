@@ -1,2 +1,4 @@
 # yq_home
-This is homework for yuqing in python programming.
+
+This is a homework repo for yuqing learning python programming.
+
