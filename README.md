@@ -1,2 +1,2 @@
 # yq_home
-This is a homework for a fool(yq) in python programming.
+This is homework for yuqing in python programming.
