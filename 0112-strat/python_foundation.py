@@ -1,12 +1,12 @@
 '''
     (第一部分，数据类型和变量)
-    Please print the following vaules
+    Please print the following values
     n = 123
     f = 456.789
     s1 = 'Hello, world'
     s2 = 'Hello, \'Adam\''
     s3 = r'Hello, "Bart"'
-    s4 = r\'''Fool,yuqing!\'''
+    s4 = r\'''You are cute,yuqing!\'''
 
 
     (第二部分，字符串)
