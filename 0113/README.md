@@ -1,4 +1,4 @@
-# yq_home
+The second homework
 
-This is a homework repo for yuqing learning python programming.
+This is about list,dictionary,condition judgment and loop.(the story of hands~)
 
