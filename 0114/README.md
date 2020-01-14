@@ -1,4 +1,5 @@
-The thied homework.(function and class)
+## The thied homework.(function and class)
 
-tip: 
-![Image text](https://github.com/Abel1802/yq_home/img-folder/quadratic.png)
+ 
+![tips: ](https://github.com/Abel1802/yq_home/blob/master/img-folder/quadratic.png)
+
