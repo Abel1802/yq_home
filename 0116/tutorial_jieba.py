@@ -9,7 +9,7 @@ import jieba
 def Hamlet():
     print("######### the Hamlet top ten word: ")
     # read the text file
-    txt = open("Hamlet.txt", "r").read()
+    txt = open("../data/Hamlet.txt", "r").read()
     # turn A-Z to a-z
     txt.lower()
     # turn special character to blank space
@@ -27,9 +27,10 @@ def Hamlet():
     for i in range(10):
         word, count = items[i]
         print("{0:<30}{1:>1}".format(word, count))
+
+
+
 # You write a Chinese text' statistic word frequency about 'RedDream'.(Please use the library of jieba)
-
-
 def RedDream():
     print("######### the RedDream top ten people: ")
     '''
