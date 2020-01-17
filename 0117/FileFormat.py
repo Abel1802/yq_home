@@ -14,7 +14,8 @@
     把 book 的 owner 改为 alice
     把 book 中的 update_at 改为当前日期
     在 items 中增加一项 {"name": "pen", "price": 1.2}
-
+    
+    下面我给了代码，你跟着敲一遍（千万别copy！！！）有问题晚上call
 '''
 
 
