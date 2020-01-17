@@ -1,5 +1,5 @@
 '''
-   Today, we learn to precede the file of json.
+   Today, we learn to process the file of json.
    json库的4个操作类函数：
     1) json.dumps() 将Python数据类型转化为json格式， 编码过程
     2) json.loads() 将json格式字符串转化为Python类型 解码过程
