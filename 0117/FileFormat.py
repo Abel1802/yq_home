@@ -23,7 +23,7 @@ import json
 import time
 
 def test_json():
-    with open("./data/sample.json", 'r', encoding='utf-8') as fp:
+    with open("../data/sample.json", 'r', encoding='utf-8') as fp:
         # Finish by yourself!
         dic = json.load(fp)
         dic['items'][0]['amount'] = 200
