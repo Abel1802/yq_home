@@ -1,0 +1,22 @@
+{
+    "items": [{
+        "name" : "book",
+        "price" : 24.51,
+        "amount" : 100,
+        "desc" : "A book",
+        "is_sale" : false,
+        "owner" : null,
+        "update_at" : "2018-09-26T10:55:43.459Z"
+    },
+    null,
+    {
+        "name" : "car",
+        "price" : 241241,
+        "amount" : 1,
+        "desc" : "A car",
+        "is_sale" : true,
+        "owner" : "bob",
+        "update_at" : "2019-04-13T14:23:53.193Z"
+    }],
+    "desc" : "包含各种类型的 JSON 测试数据"
+}
