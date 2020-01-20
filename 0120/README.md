@@ -1,4 +1,4 @@
-## the nineth homework( Multi-processing)
+## the ninth homework( Multi-processing)
 
 "最最喜欢你，绿子。”
 
