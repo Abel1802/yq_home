@@ -1,0 +1,2 @@
+see [Simulation: Hot Potato](https://runestone.academy/runestone/books/published/pythonds/BasicDS/SimulationHotPotato.html) in the book [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+复习你教的 queue (*/ω＼*)
