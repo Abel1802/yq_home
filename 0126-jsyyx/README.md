@@ -1,4 +1,4 @@
-## 计算语言学的作业---熵、KL distence
+## 计算语言学的作业---熵、KL distance
 
 #### We complete the homework together.
 
