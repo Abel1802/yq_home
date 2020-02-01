@@ -1,8 +1,10 @@
 # HMM
 ## Three basic problems:
 
-* **Probability compute(estimate)**    
+* **Probability compute(estimate)**  
+
 * **Decoding problem(prediction)**  
+
 * **Learning problem(training)**  
 - - -  
 
